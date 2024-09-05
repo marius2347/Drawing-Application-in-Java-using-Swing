@@ -184,7 +184,7 @@ public class DrawingApp extends JFrame {
         clearButton.addActionListener(e -> {
             drawingPanel.setBackground(Color.WHITE);
             drawingPanel.clear();
-            drawingPanel.setBackground(Color.WHITE);  // Reset background to white
+            drawingPanel.setBackground(Color.WHITE); 
         });
 
         // action listener to the eraser button
@@ -213,7 +213,7 @@ public class DrawingApp extends JFrame {
 
     private void changeBackgroundColor(Color color) {
         drawingPanel.setBackground(color);
-        drawingPanel.clear(); // Clear the canvas to match the new background color
+        drawingPanel.clear(); 
     }
 
     // drawing panel
