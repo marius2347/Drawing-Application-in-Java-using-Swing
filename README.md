@@ -9,7 +9,7 @@
 
 ## Acknowledgments
 
-**Python3**: [http://bit.ly/java-certifications](http://bit.ly/java-certifications)  
+**Java**: [http://bit.ly/java-certifications](http://bit.ly/java-certifications)  
 
 ## Demo Video
 
